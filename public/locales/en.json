@@ -1,6 +1,9 @@
 {
-    "welcome": "Welcome to our website!",
-    "description": "This is an example of a multilingual website.",
-    "dick": "Quang has big dick"
-  }
-  
+  "home": "Home Page",
+  "product": "Product Page",
+  "faq": "Frequently Asked Questions",
+  "discover": "Discover Page",
+  "guarantee": "Guarantee Page",
+  "cart": "Shopping Cart",
+  "contact": "Contact Page"
+}

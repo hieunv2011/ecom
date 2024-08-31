@@ -1,6 +1,9 @@
 {
-    "welcome": "Chào mừng bạn đến với trang web của chúng tôi!",
-    "description": "Đây là một ví dụ về một trang web đa ngôn ngữ.",
-    "dick": "Mr Quang có cái bò tuôi"
-  }
-  
+  "home": "Trang chủ",
+  "product": "Sản phẩm",
+  "faq": "Câu hỏi",
+  "discover": "Khám phá",
+  "guarantee": "Bảo hành",
+  "cart": "Giỏ hàng",
+  "contact": "Liên hệ"
+}
